@@ -2,7 +2,7 @@
 #include<conio.h>
 voidmain()
 {
-  printf("Hello-world  \n my 1st repository \n merge it");
+  printf("Hello-world  \n my 1st reposory \n merge it");
   getch();
  a+_vc
 }
